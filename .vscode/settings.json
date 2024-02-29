@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "stdlib.h": "c"
+    },
+    "cmake.sourceDirectory": "/home/wyatt/Documents/GitHub/SoloPractice/SDL2-2.30.0"
+}
